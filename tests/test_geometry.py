@@ -1,5 +1,5 @@
 import unittest
-from geometry import Vector3D
+from pyplanemono_minimal.geometry import Vector3D
 
 class TestVector3D(unittest.TestCase):
 
